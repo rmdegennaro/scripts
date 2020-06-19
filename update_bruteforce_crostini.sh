@@ -33,3 +33,4 @@ echo ===============================
 echo   Updating other stuff
 echo ===============================
 echo --- sudo youtube-dl -U
+sudo youtube-dl -U
