@@ -27,9 +27,6 @@ sudo apt clean
 echo ===============================
 echo   Updating source-based
 echo ===============================
-echo --- SysArtwork \(in /home/System/SysArtwork/\)
-cd /home/System/SysArtwork/
-sudo git pull
 echo --- Updating Flutter
 flutter upgrade
 echo ===============================
